@@ -22,3 +22,14 @@ const rps = (p1, p2) => {
 
   return `${results[m.get(p1)][m.get(p2)]}!`;
 };
+
+// Best Practice
+const bestPractice = (p1, p2) => {
+  if (p1 === p2) return 'Draw!';
+  var rules = { rock: 'scissors', paper: 'rock', scissors: 'paper' };
+  if (p2 === rules[p1]) {
+    return 'Player 1 won!';
+  } else {
+    return 'Player 2 won!';
+  }
+};
