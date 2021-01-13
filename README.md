@@ -15,5 +15,5 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.
 
 - 8kyu | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) (Fundamentals) ([JS 코드](https://github.com/Sunmon/Codewars/blob/main/Fundamentals/Sum%20Arrays.js))
 - 8kyu | [Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/javascript) (`Fundamentals`) ([코드 링크](Fundamentals/Rock Paper Scissors.js))
-- 8kyu | [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript) `Fundamentals` ([코드](Fundamentals/Reversed Strings.js))
-- 8kyu | `Fundamentals` [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript) ([코드](Fundamentals/Remove exclamation marks.js))
+- 8kyu | [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript) `Fundamentals` ([코드](Fundamentals/Reversed_Strings.js))
+- 8kyu | [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript) `Fundamentals` ([코드](Fundamentals/Remove exclamation marks.js))
