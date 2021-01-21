@@ -12,7 +12,7 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.\
 
 ### 문제 리스트
 
-새로운 스킬을 배운 문제는 <u>별을 붙여 표기(⭐)</u>한다.
+새로운 스킬을 배운 문제는 **별을 붙여 굵게 표기(⭐)** 한다.
 
 **2021년 1월 셋째주:**
 
@@ -20,12 +20,13 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.\
 - 8kyu | [Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/javascript) `Fundamentals` ([코드](Fundamentals/Rock_Paper_Scissors.js))
 - 8kyu | [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript) `Fundamentals` ([코드](Fundamentals/Reversed_Strings.js))
 - 8kyu | [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript) `Fundamentals` ([코드](Fundamentals/Remove_exclamation_marks.js))
-- 5kyu | [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript) `Fundamentals` ([코드](Fundamentals/Calculating_with_functions.js)) ⭐
+- **5kyu | [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript) `Fundamentals` ([코드](Fundamentals/Calculating_with_functions.js))** ⭐
 - 8kyu | [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/javascript) `Fundamentals` ([코드](Fundamentals/Returning_Strings.js))
-- 6kyu | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript) `Fundamentals` ([코드](Fundamentals/Playing_with_digits.js)) ⭐
+- **6kyu | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript) `Fundamentals` ([코드](Fundamentals/Playing_with_digits.js))** ⭐
 - 7kyu | [You're a squre!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/javascript) `Fundamentals` ([코드](Fundamentals/You're_a_squre!.js))
 
 **2021년 1월 넷째주:**
 
-- 5kyu | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript) `Fundamentals` ([코드](Fundamentals/Directions_Reduction.js)) ⭐
+- **5kyu | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript) `Fundamentals` ([코드](Fundamentals/Directions_Reduction.js))** ⭐
 - 6kyu | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/javascript) `Fundamentals` ([코드](Fundamentals/Replace_With_Alphabet_Position.js))
+- 6kyu | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) `Fundamentals`
