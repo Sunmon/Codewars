@@ -30,4 +30,4 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.\
 - **5kyu | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript) `Fundamentals` ([코드](Fundamentals/Directions_Reduction.js))** ⭐
 - 6kyu | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/javascript) `Fundamentals` ([코드](Fundamentals/Replace_With_Alphabet_Position.js))
 - **6kyu | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) `Fundamentals` ([코드](Fundamentals/Who_likes_it.js))** ⭐
-- 6kyu | [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript) `Fundamentals` ([코드](Fundamentals/Fromat_a_string_of_names.js)
+- 6kyu | [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript) `Fundamentals` ([코드](Fundamentals/Format_a_string_of_names.js))
