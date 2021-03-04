@@ -25,6 +25,8 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.\
 - 6kyu | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript) `Fundamentals` ([코드](Fundamentals/Playing_with_digits.js)) ⭐
 - 7kyu | [You're a squre!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/javascript) `Fundamentals` ([코드](Fundamentals/You're_a_squre!.js))
 
-**2021년 1월 넷째주:**
+**2021년 1월 넷째주 ~ 3월 둘째주:**
 
 - 5kyu | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript) `Fundamentals` ([코드](Fundamentals/Directions_Reduction.js)) ⭐
+- 6kyu | [Highest Rank Number in an Array](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004/javascript) `Fundamentals` ([코드](Fundamentals/Highest_Rank_Number_in_an_Array.js))
+- 6kyu | [String transformer](https://www.codewars.com/kata/5878520d52628a092f0002d0/) `Fundamentals` ([코드](Fundamentals/String_transformer.js))
