@@ -40,3 +40,4 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.\
 - 6kyu | [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449) `Fundamentals` ([코드](Fundamentals/Encrypt_this.js))
 - 6kyu | [Highest Rank Number in an Array](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004/javascript) `Fundamentals` ([코드](Fundamentals/Highest_Rank_Number_in_an_Array.js))
 - 6kyu | [String transformer](https://www.codewars.com/kata/5878520d52628a092f0002d0/) `Fundamentals` ([코드](Fundamentals/String_transformer.js))
+- 6kyu | [The deaf Rats of Hamelin](https://www.codewars.com/kata/598106cb34e205e074000031) `Fundamentals` ([코드](Fundamentals/The_Deaf_Rats_of_Hamelin.js))
