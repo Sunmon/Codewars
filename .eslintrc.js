@@ -10,5 +10,7 @@ module.exports = {
     ecmaVersion: 11,
     sourceType: 'module',
   },
-  rules: {},
+  rules: {
+    'no-use-before-define': ['warn', { functions: false, classes: true }],
+  },
 };
