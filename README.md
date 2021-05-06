@@ -41,8 +41,9 @@ kyu는 1 ~ 8 단계로 이루어져있으며 1단계가 가장 어렵다.\
 - 6kyu | [String transformer](https://www.codewars.com/kata/5878520d52628a092f0002d0/) `Fundamentals` ([코드](Fundamentals/String_transformer.js))
 - 6kyu | [The deaf Rats of Hamelin](https://www.codewars.com/kata/598106cb34e205e074000031) `Fundamentals` ([코드](Fundamentals/The_Deaf_Rats_of_Hamelin.js))
 
-**2021년 4월:**
+**2021년 4월 ~ 5월:**
 
 - 6kyu | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/) `Fundamentals` ([코드](Fundamentals/Arraydiff.js))
 - 6kyu | [Multiplication Table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08//) `Fundamentals` ([코드](Fundamentals/Multiplication_table.js))
 - 6kyu | [Simplifying_multilinear_polynomials](hhttps://www.codewars.com/kata/55f89832ac9a66518f000118) `Fundamentals` ([코드](Fundamentals/Simplifying_multilinear_polynomials.js))
+- 6kyu | [The_Vowel_Code](https://www.codewars.com/kata/53697be005f803751e0015aa) `Fundamentals` ([코드])
