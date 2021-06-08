@@ -13,23 +13,35 @@ function add(a, b) {
 }
 
 function add(a,b) {
-  if (!Number.isSafeInteger(Number(a)) || !Number.isSafeInteger(Number(b))) {
-    const halfA = halfcut(a);
-    const halfB = halfcut(b);
+  if (!Number.isSafeInteger(Number(a) + Number(b))) {
+    const [halfA, halfB] = divide(a,b);
     const [front, back] = [ add(halfA[0], halfB[0]), add(halfA[1], halfB[1])]
-    console.log('front, back: ', front, back)
     const carry = Math.max(halfA[1], halfB[1]) !== back.length;
-    return carry ?  ( Number(front) + 1 ).toString() + back : front + back;
+    return carry ?  ( Number(front) + 1 ).toString() + back.slice(1) : front + back;
   }
 
   return ( Number(a) + Number(b) ).toString();
 }
 
+function divide(a,b) {
+  let halfA, halfB;
+  if (a.length > b.length) {
+    halfA = halfcut(a);
+    halfB = halfcut('0'.repeat(a.length - b.length) + b);
+  } else if (a.length < b.length) {
+    halfA = halfcut('0'.repeat(b.length - a.length) + a);
+    halfB = halfcut(b);
+  } else {
+    halfA = halfcut(a);
+    halfB = halfcut(b);
+  }
+  return [halfA, halfB]
+}
+
 function halfcut(a) {
   const len = a.length;
-  a.slice(len/2)
   return [a.slice(0, len/2), a.slice(len/2)];
 }
 
-console.log((add("1", "1")))
-console.log(add('63829983432984289347293874', '90938498237058927340892374089'))
+const answer = add('63829983432984289347293874', '90938498237058927340892374089')
+console.log(answer, answer === "91002328220491911630239667963")
